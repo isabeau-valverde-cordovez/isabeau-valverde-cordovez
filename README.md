@@ -1,5 +1,5 @@
 # ¡Hola soy Isabeau Valverde!💜  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p>Soy una estudiante de desarrollo Full Strack apasionada por inovar, estoy entusiasmada por seguir aprendiendo y crecer en esta area de desarrollo web, estoy actualmente buscando mi primera oportunidad en el campo de la tecnologia de la informacion.</p>
+<p>Soy una desarrolladora Full Strack apasionada por inovar, estoy entusiasmada por seguir aprendiendo y crecer en esta area de desarrollo web, estoy actualmente buscando mi primera oportunidad en el campo de la tecnologia de la informacion.</p>
 <h2>Acerca de mí</h2>
 
 - 👀 Tengo 24 años, de nacionalidad Chilena
