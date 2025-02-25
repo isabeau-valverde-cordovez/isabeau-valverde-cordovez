@@ -14,7 +14,7 @@
 - :octocat:[LinkeIn](https://www.linkedin.com/in/isabeau-valverde-cordovez-técnico-de-nivel-superior-asistente-en-educación/)
 
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Xisap1&show_icons=true)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=isabeau-valverde-cordovez&show_icons=true)
 
 ## Gracias por visitar mi portafolio 👻
 
